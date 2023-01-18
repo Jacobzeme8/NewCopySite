@@ -1,0 +1,15 @@
+.justify-content-center{
+  justify-content: center;
+}
+
+.stylus{
+  background-image: url(https://via.placeholder.com/150);
+}
+
+.blue-info{
+  background-color: #469ae0;
+}
+
+.mapExample{
+  background-image:image()
+}
