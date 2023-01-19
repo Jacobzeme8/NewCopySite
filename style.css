@@ -2,6 +2,14 @@
   justify-content: center;
 }
 
+.justify-content-spaceevenly{
+  justify-content:space-evenly;
+}
+
+.align-items-center{
+  align-items: center;
+}
+
 .stylus{
   background-image: url(https://via.placeholder.com/150);
 }
@@ -16,4 +24,12 @@
 
 .mapBackground{
   background-image:url(https://media.wired.com/photos/59269cd37034dc5f91bec0f1/191:100/w_1280,c_limit/GoogleMapTA.jpg)
+}
+
+.icon{
+  padding: .5em;
+}
+
+footer{
+  background-color: black;
 }
